@@ -5,10 +5,6 @@ This project involves the creation of a dynamic and interactive **Sales Dashboar
 
 It is designed to help stakeholders visualize key metrics (KPIs) and make data-driven decisions by filtering data dynamically through Slicers.
 
-### **📸 Dashboard Preview**
-![Dashboard Screenshot](Screenshot%202025-12-11%20203747.png)
-*(Note: Ensure your screenshot file is in the same folder as this README)*
-
 ---
 
 ### **✨ Key Features**
